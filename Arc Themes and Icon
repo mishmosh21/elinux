@@ -1,0 +1,18 @@
+Install for Default EthanOS theme "Arc"
+
+Arc Theme
+*************************************************************************************************
+sudo add-apt-repository ppa:noobslab/themes
+
+sudo apt-get update
+
+sudo apt-get install arc-theme
+**************************************************************************************************
+Arc Icons
+**************************************************************************************************
+sudo add-apt-repository ppa:noobslab/icons
+
+sudo apt-get update
+
+sudo apt-get install arc-icons
+**************************************************************************************************
