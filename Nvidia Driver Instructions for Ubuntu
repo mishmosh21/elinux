@@ -1,0 +1,11 @@
+These are the installation instructions for Nvidia graphics drivers.
+***************************************************************************************************
+
+sudo add-apt-repository ppa:graphics-drivers/ppa
+
+sudo apt update
+
+***************************************************************************************************
+Open "Additional Drivers"
+Select the driver you want to use 
+reboot
